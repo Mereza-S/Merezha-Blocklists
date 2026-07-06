@@ -1,3 +1,7 @@
 # Merezha Gambling Blocklist
 # Один домен = один рядок
 # Оновлено: 2026-07-05
+vulkan.com
+1win.com
+pin-up.bet
+pari-match.com
