@@ -1,0 +1,2 @@
+# Merezha DNS-over-TLS Blocklist
+# Updated: 2026-07-07
