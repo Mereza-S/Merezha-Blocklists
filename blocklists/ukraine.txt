@@ -1,3 +1,4 @@
 # Merezha Ukrainian Blocklist
 # Українські сайти, які відсутні у міжнародних списках
 # Updated: 2026-07-07
+example.com
