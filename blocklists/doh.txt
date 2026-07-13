@@ -66,3 +66,11 @@ docs.umbrella.com
 cleanbrowsing.org
 doh.cleanbrowsing.org
 my.cleanbrowsing.org
+# --------------------------------------------------------------------
+# DNSFilter
+# Corporate DNS Filtering Platform
+# --------------------------------------------------------------------
+
+dnsfilter.com
+app.dnsfilter.com
+api.dnsfilter.com
