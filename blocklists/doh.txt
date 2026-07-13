@@ -48,3 +48,13 @@ dns.mullvad.net
 quad9.net
 dns.quad9.net
 www.quad9.net
+# ------------------------------------------------------------
+# Cisco Umbrella
+# Updated: 2026-07-13
+# Corporate DNS Security Platform
+# ------------------------------------------------------------
+
+umbrella.com
+dashboard.umbrella.com
+api.umbrella.com
+docs.umbrella.com
