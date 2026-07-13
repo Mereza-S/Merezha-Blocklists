@@ -74,3 +74,10 @@ my.cleanbrowsing.org
 dnsfilter.com
 app.dnsfilter.com
 api.dnsfilter.com
+# --------------------------------------------------------------------
+# SafeDNS
+# Corporate DNS Filtering Platform
+# --------------------------------------------------------------------
+
+safedns.com
+my.safedns.com
