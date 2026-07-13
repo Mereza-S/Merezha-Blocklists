@@ -39,3 +39,12 @@ docs.controld.com
 
 mullvad.net
 dns.mullvad.net
+# ------------------------------------------------------------
+# Quad9
+# Updated: 2026-07-07
+# Public DNS-over-HTTPS service
+# ------------------------------------------------------------
+
+quad9.net
+dns.quad9.net
+www.quad9.net
