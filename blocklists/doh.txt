@@ -11,3 +11,12 @@ cloudflare-gateway.com
 teams.cloudflare.com
 one.dash.cloudflare.com
 dash.teams.cloudflare.com
+# ------------------------------------------------------------
+# NextDNS
+# Updated: 2026-07-07
+# Корпоративні та службові домени NextDNS
+# ------------------------------------------------------------
+
+my.nextdns.io
+control.nextdns.io
+api.nextdns.io
