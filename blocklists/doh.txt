@@ -1,2 +1,13 @@
 # Merezha DNS-over-HTTPS Blocklist
 # Updated: 2026-07-07
+# --------------------------------------------------------------------
+# Cloudflare Zero Trust
+# Updated: 2026-07-07
+# Корпоративний DNS Cloudflare
+# --------------------------------------------------------------------
+
+gateway.cloudflare.com
+cloudflare-gateway.com
+teams.cloudflare.com
+one.dash.cloudflare.com
+dash.teams.cloudflare.com
