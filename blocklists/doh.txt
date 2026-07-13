@@ -20,3 +20,14 @@ dash.teams.cloudflare.com
 my.nextdns.io
 control.nextdns.io
 api.nextdns.io
+# ------------------------------------------------------------
+# Control D
+# Updated: 2026-07-07
+# Корпоративний та публічний DNS сервіс Control D
+# ------------------------------------------------------------
+
+controld.com
+dns.controld.com
+api.controld.com
+verify.controld.com
+docs.controld.com
