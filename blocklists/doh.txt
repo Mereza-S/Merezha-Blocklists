@@ -31,3 +31,11 @@ dns.controld.com
 api.controld.com
 verify.controld.com
 docs.controld.com
+# ------------------------------------------------------------
+# Mullvad DNS
+# Updated: 2026-07-07
+# DNS-over-HTTPS сервіс Mullvad
+# ------------------------------------------------------------
+
+mullvad.net
+dns.mullvad.net
