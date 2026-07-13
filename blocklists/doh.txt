@@ -81,3 +81,10 @@ api.dnsfilter.com
 
 safedns.com
 my.safedns.com
+# --------------------------------------------------------------------
+# WebTitan
+# Corporate DNS Filtering Platform
+# --------------------------------------------------------------------
+
+webtitan.com
+login.webtitan.com
