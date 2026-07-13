@@ -58,3 +58,11 @@ umbrella.com
 dashboard.umbrella.com
 api.umbrella.com
 docs.umbrella.com
+# --------------------------------------------------------------------
+# CleanBrowsing
+# Family DNS Security Platform
+# --------------------------------------------------------------------
+
+cleanbrowsing.org
+doh.cleanbrowsing.org
+my.cleanbrowsing.org
