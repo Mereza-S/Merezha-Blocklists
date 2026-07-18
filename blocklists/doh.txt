@@ -111,7 +111,9 @@ sky.rethinkdns.com
 max.rethinkdns.com
 # --------------------------------------------------------------------
 # OpenDNS
-# Cisco Public DNS
+# Cisco Public DNS Resolver
 # --------------------------------------------------------------------
 
 opendns.com
+doh.opendns.com
+doh.familyshield.opendns.com
