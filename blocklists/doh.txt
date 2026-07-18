@@ -101,3 +101,11 @@ dns0.eu
 
 libredns.gr
 doh.libredns.gr
+# --------------------------------------------------------------------
+# RethinkDNS
+# Android DNS Resolver
+# --------------------------------------------------------------------
+
+rethinkdns.com
+sky.rethinkdns.com
+max.rethinkdns.com
