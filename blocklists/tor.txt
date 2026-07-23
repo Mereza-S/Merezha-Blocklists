@@ -35,3 +35,13 @@ stem.torproject.org
 
 bridges.torproject.org
 bridge-db.torproject.org
+# --------------------------------------------------------------------
+# Snowflake
+# Updated: 2026-07-24
+# Official Tor Snowflake Infrastructure
+# Verified: Official
+# --------------------------------------------------------------------
+
+snowflake.torproject.org
+snowflake-broker.torproject.org
+snowflake-bridge.torproject.org
