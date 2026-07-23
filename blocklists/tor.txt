@@ -1,2 +1,28 @@
 # Merezha Tor Blocklist
 # Updated: 2026-07-07
+# --------------------------------------------------------------------
+# Tor Project
+# Updated: 2026-07-24
+# Official Tor Project Infrastructure
+# Verified: Official
+# --------------------------------------------------------------------
+
+torproject.org
+www.torproject.org
+support.torproject.org
+forum.torproject.org
+community.torproject.org
+blog.torproject.org
+donate.torproject.org
+lists.torproject.org
+archive.torproject.org
+collector.torproject.org
+dist.torproject.org
+people.torproject.org
+tb-manual.torproject.org
+metrics.torproject.org
+onionoo.torproject.org
+check.torproject.org
+bridges.torproject.org
+nyx.torproject.org
+stem.torproject.org
