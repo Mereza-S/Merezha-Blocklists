@@ -26,3 +26,12 @@ check.torproject.org
 bridges.torproject.org
 nyx.torproject.org
 stem.torproject.org
+# --------------------------------------------------------------------
+# Tor Bridges Infrastructure
+# Updated: 2026-07-24
+# Official Tor Bridge Distribution Services
+# Verified: Official
+# --------------------------------------------------------------------
+
+bridges.torproject.org
+bridge-db.torproject.org
